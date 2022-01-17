@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raghvandrauxd
 - 👀 I’m interested in UI/UX Designing and Development
 - 🌱 I’m currently learning UX Designing
-- 💞️ I’m looking to collaborate on UI/UI
+- 💞️ I’m looking to collaborate on UX/UI
 - 📫 you can reach me at raghvandrauxd@gmail.com
 
 <!---
